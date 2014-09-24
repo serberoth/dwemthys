@@ -1,0 +1,11 @@
+Dwemthy's Array
+Written By: Serberoth
+------------------------------------------------------------
+This is a customized version of the Dwemthy's Array
+inspired by Why the Lucky Stiff in his book.  This version
+has multiple classes which have items and a customzied set
+of monsters.
+
+Load the dwemthy.rb in irb and call Dwemthy::play then have
+fun!
+
